@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **GraphQL, React-Redux**
 
-- 💬 Ask me about **NodeJS, VueJS**
+- 💬 Ask me about **NodeJS, MongoDB, MySQL and Arduino**
 
 - 📫 How to reach me **luisfuentes.au@gmail.com**
 
