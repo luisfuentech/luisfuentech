@@ -16,6 +16,7 @@
 - 📫 How to reach me **luisfuentes.au@gmail.com**
 
 - ⚡ Fun fact **I studied Industrial Automatization**
+- 🛠 My NPM [packages](https://www.npmjs.com/settings/luisfuentech/packages)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
