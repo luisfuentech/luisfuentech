@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/luisfuentech" target="blank"><img src="https://img.shields.io/twitter/follow/luisfuentech?logo=twitter&style=for-the-badge" alt="luisfuentech" /></a> </p>
 
-- 🔭 I’m currently working on [Javascript & NodeJS utilities](https://github.com/LuisFuenTech/Javascript-Utilities)
-
-- 🌱 I’m currently learning **GraphQL, React-Redux**
+- 🔭 As a hobbie I worked on [Javascript & NodeJS utilities](https://github.com/LuisFuenTech/Javascript-Utilities)
 
 - 💬 Ask me about **NodeJS, MongoDB, MySQL and Arduino**
 
