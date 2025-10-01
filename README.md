@@ -16,6 +16,11 @@
 - ⚡ Fun fact **I studied Industrial Automatization**
 - 🛠 My NPM [packages](https://www.npmjs.com/settings/luisfuentech/packages)
 
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luisfuentech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luisfuentech" height="30" width="40" /></a>
