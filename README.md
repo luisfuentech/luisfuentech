@@ -17,9 +17,9 @@
 - 🛠 My NPM [packages](https://www.npmjs.com/settings/luisfuentech/packages)
 
 ### ⚡ Recent Activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
