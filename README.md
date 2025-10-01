@@ -18,6 +18,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/luisfuentech/luisfuentech/issues/1) in [luisfuentech/luisfuentech](https://github.com/luisfuentech/luisfuentech)
+<!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
