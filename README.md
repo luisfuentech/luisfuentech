@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfuentech&label=Profile%20views&color=0e75b6&style=flat" alt="luisfuentech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisfuentech&theme=dracula" alt="luisfuentech" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/luisfuentech" target="blank"><img src="https://img.shields.io/twitter/follow/luisfuentech?logo=twitter&style=for-the-badge" alt="luisfuentech" /></a> </p>
-
 - 🔭 As a hobbie I worked on [Javascript & NodeJS utilities](https://github.com/LuisFuenTech/Javascript-Utilities)
 
 - 💬 Ask me about **NodeJS, MongoDB, MySQL and Arduino**
@@ -29,13 +25,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" width="40" height="60"/> </a> 
+<p align="left">
   
-<a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" alt="nodejs" width="80" height="40"/> </a>
+- Javascript/Typescript
+  
+- NodeJS
+
 <a href="https://redis.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="redis" width="80" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
