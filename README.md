@@ -31,22 +31,19 @@
   
 - NodeJS
 
-<a href="https://redis.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="redis" width="80" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+- SQL
 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" width="80" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="mongodb" width="40" height="40"/> </a>
+- NoSQL
 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="120" height="40"/> </a> 
+- AWS
+
+- CI/CD
+
+- Docker
+
+- Claude Code SDK
+
+- AI Agents
+
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfuentech&show_icons=true&locale=en&layout=compact" alt="luisfuentech" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfuentech&show_icons=true&locale=en" alt="luisfuentech" /></p>
 
